@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spfrom" type="id" />
+    <item name="spto" type="id" />
+    <item name="txtamt" type="id" />
+    <item name="btn1" type="id" />
+</resources>
